@@ -1,0 +1,16 @@
+Zunächst in der Autoklasse eine Methode anlegen:
+	- public boolean istMotorAn() - hier soll der istAn-Wert des Automotors zurückgegeben werden.
+
+
+Jetzt die Fahrer-Klasse ausbauen. Das ist einfach nur die Main-Klasse, aber kein ernstzunehmender Java-Entwickler wird die so nennen.
+
+Hier also eine main-Methode basteln. Darin:
+	
+	- Ein Auto-Object erstellen
+	- Räderzahl festlegen
+	- Räderzahl ausgeben - mit System.out.println
+	- Den Motor starten
+	- Den Motorstatus ausgeben
+	- Den Motor stoppen
+	- Den Motorstatus wieder ausgeben
+
